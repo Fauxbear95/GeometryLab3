@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\GeometryLab3\bin\Debug\net5.0\GeometryLab3.exe
+C:\Users\danie\source\repos\GeometryLab3\bin\Debug\net5.0\GeometryLab3.deps.json
+C:\Users\danie\source\repos\GeometryLab3\bin\Debug\net5.0\GeometryLab3.runtimeconfig.json
+C:\Users\danie\source\repos\GeometryLab3\bin\Debug\net5.0\GeometryLab3.runtimeconfig.dev.json
+C:\Users\danie\source\repos\GeometryLab3\bin\Debug\net5.0\GeometryLab3.dll
+C:\Users\danie\source\repos\GeometryLab3\bin\Debug\net5.0\ref\GeometryLab3.dll
+C:\Users\danie\source\repos\GeometryLab3\bin\Debug\net5.0\GeometryLab3.pdb
+C:\Users\danie\source\repos\GeometryLab3\obj\Debug\net5.0\GeometryLab3.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\GeometryLab3\obj\Debug\net5.0\GeometryLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\GeometryLab3\obj\Debug\net5.0\GeometryLab3.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\GeometryLab3\obj\Debug\net5.0\GeometryLab3.AssemblyInfo.cs
+C:\Users\danie\source\repos\GeometryLab3\obj\Debug\net5.0\GeometryLab3.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\GeometryLab3\obj\Debug\net5.0\GeometryLab3.dll
+C:\Users\danie\source\repos\GeometryLab3\obj\Debug\net5.0\ref\GeometryLab3.dll
+C:\Users\danie\source\repos\GeometryLab3\obj\Debug\net5.0\GeometryLab3.pdb
+C:\Users\danie\source\repos\GeometryLab3\obj\Debug\net5.0\GeometryLab3.genruntimeconfig.cache
